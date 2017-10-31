@@ -6,8 +6,8 @@ var mensaje= prompt ("¡Hola!, por favor, ingresa tu frase:"){
     }
   }¡ESTA MADRE AUN NO ESTA, DEBES DE CORREGIRLA, ANDREA!
 }
-//Creación de función y array para cifrado Cesar
+//Creación de función y array para cifrado Cesar. Uso del for para delimitar
 function phrase(str) {
   var array = [];
-    for 
+    for
 }
