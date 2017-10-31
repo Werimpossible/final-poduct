@@ -4,7 +4,10 @@ var mensaje= prompt ("¡Hola!, por favor, ingresa tu frase:"){
     if (mensaje.type= number || mensaje === null){
       alert("El campo no debe tener números o tener vacío. Vuelve a intentarlo");
     }
-  }
+  }¡ESTA MADRE AUN NO ESTA, DEBES DE CORREGIRLA, ANDREA!
 }
-//Creación de variables para cifrado Cesar
-var
+//Creación de función y array para cifrado Cesar
+function phrase(str) {
+  var array = [];
+    for 
+}
